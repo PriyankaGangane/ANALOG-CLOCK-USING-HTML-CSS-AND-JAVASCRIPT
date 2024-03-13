@@ -1,3 +1,10 @@
+h1 {
+  color: rgb(132, 0, 255);
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
 .clock {
     background: #ececec;
     width: 300px;
